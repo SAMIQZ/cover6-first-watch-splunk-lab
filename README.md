@@ -14,7 +14,7 @@ Hands-on SOC Analyst investigation from the free **Cover6: First Watch** lab.
 |-----|------------------------|------------|--------|
 | 1   | Reconnaissance         | Completed  | [View Report](Day1-Reconnaissance/01-Reconnaissance.md) |
 | 2   | Web Enumeration        | Completed    | [View Report](Day2-Web-Enumeration/02-Web-Enumeration.md) |
-| 3   | Initial Access         | Completed    | [View Report](Day3-Initial-Access/03-Initial-Access) |
+| 3   | Initial Access         | Completed    | [View Report](Day3-Initial-Access/03-Initial-Access.md) |
 | 4   | Command and Control    | Pending    | - |
 | 5   | Internal Reconnaissance| Pending    | - |
 | 6   | Exfiltration           | Pending    | - |
